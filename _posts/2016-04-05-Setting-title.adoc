@@ -1,5 +1,5 @@
 = Setting title 
-:hp-tags:hubpress
+:hp-tags: hubpress
 
 
 I've got a hubpress site in github
