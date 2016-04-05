@@ -1,7 +1,8 @@
 = Setting title 
+:hb-tags:hubpress
+
 
 I've got a hubpress site in github
 use handlebar templates
 Gost cms software
 
-:hb-tags=hubpress
