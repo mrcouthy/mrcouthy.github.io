@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "mrcouthy",
-    "repositoryName": "mrcouthy.github.io",
-    "branch": "master"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"mrcouthy","repositoryName":"mrcouthy.github.io","branch":"master"},"site":{"title":"Hi","url":"https://mrcouthy.github.io"},"socialnetwork":{},"theme":{"name":"Casper","url":"//mrcouthy.github.io/themes/Casper"}}
