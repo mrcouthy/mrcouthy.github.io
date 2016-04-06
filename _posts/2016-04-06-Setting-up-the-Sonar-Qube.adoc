@@ -1,0 +1,8 @@
+= Setting up the SonarQube
+:hp-tags: devops
+Goto sonarqube.org
+* Download latest version
+* Install as windows service
+* Configure database
+* Start the web service
+* Browse in localhost:9000
