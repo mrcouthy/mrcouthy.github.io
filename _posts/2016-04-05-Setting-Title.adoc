@@ -1,4 +1,4 @@
-= Setting title 
+= Setting Title 
 :hp-tags: hubpress
 
 
